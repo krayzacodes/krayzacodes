@@ -10,4 +10,4 @@ I love working on my MacBook and building my skills one day at a time.
 - SQL fundamentals
 
 # About me:
-Motived, focused and always learning.
+Motivated, focused and always learning.
