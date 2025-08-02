@@ -25,4 +25,4 @@
 
 ### 📫 Let's connect!
 💌 mizginyakinn@gmail.com
-🐙 [github.com/krayzacodes](https://github.com/krayzacodes9
+🐙 [github.com/krayzacodes](https://github.com/krayzacodes)
