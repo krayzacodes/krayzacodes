@@ -1,13 +1,27 @@
-# Hello, I'm Mizgin 👋🏼
-I'm an learning Python step by step and practicing with real projects.
-I also spend time with Linux and SQL every day.
-I love working on my MacBook and building my skills one day at a time.
+<h1 alige="center">Hi, I'm Krayza 👩🏻‍💻</h1>
+<p align="center">
+💋 Python • Linux • Bash <br>
+🛠️ Ethical Hacker & Freelance Developer<br>
+🌍 Antalya | 🇹🇷 | Working for freedom 💫
+</p>
 
-# What I'm working on:
-- Python basics and mini projects
-- Git and GitHub version control
-- Linux terminal commands
-- SQL fundamentals
+---
 
-# About me:
-Motivated, focused and always learning.
+### 💡 Projects & Skills
+- 🧮 Calculator app with terminal interface (Python)
+- 👤 Learning Cybersecurity tools & Linux
+- 💼 Goal: Freealance income + Remote tech career
+
+---
+
+### 🔧 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📫 Let's connect!
+💌 mizginyakinn@gmail.com
+🐙 [github.com/krayzacodes](https://github.com/krayzacodes9
