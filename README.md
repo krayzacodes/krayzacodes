@@ -11,7 +11,7 @@
 ### 💡 Projects & Skills
 - 🧮 Calculator app with terminal interface (Python)
 - 👤 Learning Cybersecurity tools & Linux
-- 💼 Goal: Freealance income + Remote tech career
+
 
 ---
 
