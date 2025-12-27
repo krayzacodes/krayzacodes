@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Krayza 👩🏻‍💻</h1>
 <h3 align="center">💻 Ethical Hacker & Code Queen | Freelance Developer</h3>
 <p align="center">
-💋 Python • Linux • Bash <br>
+💋 Python • Linux • Bash / JAVA <br> 
 🛠️ Ethical Hacker & Freelance Developer<br>
-🌍 Antalya | 🇹🇷 | Working for freedom 💫
+🌍 Antalya | 🇹🇷
 </p>
 
 ---
